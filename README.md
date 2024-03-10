@@ -1,4 +1,5 @@
-# C-programming-language
+# Four-programming-language
 
-![repository-open-graph-template](https://github.com/coding-with-ayush/Four-programming-language/assets/153833960/0db8c8a0-273e-4b6e-adfa-024214beed4a)
-![Blue and White Abstract Technology LinkedIn Banner](https://github.com/coding-with-ayush/Four-programming-language/assets/153833960/abe8f3fd-c9bb-4676-9702-fc36e5da06fe)
+📂💻 I've uploaded four different program codes! They're in C, C++, Java, and Python. Each one has its own cool stuff. Like, C is really good for making things super efficient, while Python is awesome for its simplicity. These codes are like keys to unlock all sorts of coding adventures.   C++: Explore the world of object-oriented programming with C++, unleashing the power of classes, inheritance, and polymorphism. Java: Embark on building robust, platform-independent applications with Java, known for its reliability and scalability.💫💻 #CodingFun #ProgramsUploaded
+#C++ #C #java #python
+
