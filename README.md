@@ -1,2 +1,2 @@
-# Four-programming-language
-Four programming language
+# C-programming-language
+
