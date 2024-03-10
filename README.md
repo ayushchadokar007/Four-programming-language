@@ -6,7 +6,7 @@
 Like, C is really good for making things super efficient, 
 while Python is awesome for its simplicity. These codes are like keys to unlock all sorts of coding adventures.  
 C++: Explore the world of object-oriented programming with C++, unleashing the power of classes, inheritance, and polymorphism.
-Java: Embark on building robust, platform-independent applications with Java, known for its reliability and scalability.💫💻 
+ Java: Embark on building robust, platform-independent applications with Java, known for its reliability and scalability.💫💻 
 
 #CodingFun #ProgramsUploaded #C++ #C #java #python
 
